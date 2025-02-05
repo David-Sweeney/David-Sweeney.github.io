@@ -1235,7 +1235,7 @@ input, select, textarea {
 		-ms-box-sizing: content-box;
 		box-sizing: content-box;
 		background: #fff;
-		padding-bottom: 7em;
+		padding-bottom: 8em;
 		box-shadow: 0 0.1em 0.15em 0 rgba(0, 0, 0, 0.15);
 	}
 
