@@ -2312,23 +2312,24 @@ input, select, textarea {
 	}
 
 		#contact .box {
-			-moz-transition: -moz-transform 1s ease;
+			/* Remove contact box fading in/out */
+			/* -moz-transition: -moz-transform 1s ease;
 			-webkit-transition: -webkit-transform 1s ease;
 			-ms-transition: -ms-transform 1s ease;
 			transition: transform 1s ease;
 			-moz-transform: translateY(0);
 			-webkit-transform: translateY(0);
 			-ms-transform: translateY(0);
-			transform: translateY(0);
+			transform: translateY(0); */
 			position: relative;
 		}
 
-		#contact.inactive .box {
+		/* #contact.inactive .box {
 			-moz-transform: translateY(100%);
 			-webkit-transform: translateY(100%);
 			-ms-transform: translateY(100%);
 			transform: translateY(100%);
-		}
+		} */
 
 		@media screen and (max-width: 736px) {
 
